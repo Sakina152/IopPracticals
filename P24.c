@@ -21,4 +21,6 @@ int main(){
         y=1+(n*x);
     }
     printf("The value of y(x,n) = %f\n",y);
+
+    return 0;
 }
