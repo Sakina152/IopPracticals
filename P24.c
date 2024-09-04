@@ -3,9 +3,9 @@
 int main(){
     int n;
     float x,y;
-    printf("Enter the value of x:");
+    printf("Enter the value of x:\n");
     scanf("%f",&x);
-    printf("Enter the value of n:");
+    printf("Enter the value of n:\n");
     scanf("%d",&n);
 
     if(n==1){
@@ -20,5 +20,5 @@ int main(){
     else if(n>3 || n<1){
         y=1+(n*x);
     }
-    printf("The value of y(x,n) = %f",y);
+    printf("The value of y(x,n) = %f\n",y);
 }
