@@ -15,4 +15,6 @@ int main(){
         
     printf("Sum of even numbers between 1 to %d = %d\n",n,sumeven);
     printf("Sum of odd numbers between 1 to %d = %d\n",n,sumodd);
+
+    return 0;
 }
