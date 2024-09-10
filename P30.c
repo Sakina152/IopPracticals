@@ -10,5 +10,6 @@ int main(){
         n/=10;
     }
     printf("Reversed number: %d",revn);
+    return 0;
 
 }
