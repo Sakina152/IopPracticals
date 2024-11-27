@@ -19,19 +19,19 @@ int main(){
         color=green;
     }
     else if(strcmp(input,"white")==0){
-        color=red;
+        color=white;
     }
     else if(strcmp(input,"black")==0){
-        color=red;
+        color=black;
     }
     else if(strcmp(input,"pink")==0){
-        color=red;
+        color=pink;
     }
     else if(strcmp(input,"purple")==0){
-        color=red;
+        color=purple;
     }
     else if(strcmp(input,"orange")==0){
-        color=red;
+        color=orange;
     }
     else{
         printf("Invalid color name.\n");
